@@ -66,7 +66,7 @@ const Footer = () => (
           <Link href="/">Docs</Link>
         </li>
         <li>
-          <Link href="https://github.com/daffa50/Kelompok2">
+          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
             GitHub
           </Link>
         </li>

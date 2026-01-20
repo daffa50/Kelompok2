@@ -5,7 +5,7 @@ import { Section } from '@/layout/Section';
 const Sponsors = () => (
   <Section
     title="Sponsors"
-    description="Our sponsors' exceptional support has made this project possible."
+    description="Beberapa Sponsors yang mendukung PT Kasur Aneka Busa."
   >
     <table className="mx-auto border-collapse">
       <tbody>
@@ -16,7 +16,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/clerk-logo-dark.png"
+                src="/assets/images/Shop1.jpg"
                 alt="Clerk – Authentication & User Management for Next.js"
                 width={260}
                 height={224}
@@ -29,7 +29,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/coderabbit-logo-light.svg"
+                src="/assets/images/Shop2.jpg"
                 alt="CodeRabbit"
                 width={260}
                 height={224}
@@ -42,7 +42,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/sentry-dark.png"
+                src="/assets/images/Shop3.jpg"
                 alt="Sentry"
                 width={260}
                 height={224}
@@ -54,7 +54,7 @@ const Sponsors = () => (
           <td className="border-2 border-gray-300 p-3">
             <a href="https://launch.arcjet.com/Q6eLbRE" target="_blank">
               <Image
-                src="/assets/images/arcjet-light.svg"
+                src="/assets/images/Shop4.jpg"
                 alt="Arcjet"
                 width={260}
                 height={224}
@@ -64,7 +64,7 @@ const Sponsors = () => (
           <td className="border-2 border-gray-300 p-3">
             <a href="https://l.crowdin.com/next-js" target="_blank">
               <Image
-                src="/assets/images/crowdin-dark.png"
+                src="/assets/images/Shop5.jpg"
                 alt="Better Stack"
                 width={260}
                 height={224}
@@ -74,7 +74,7 @@ const Sponsors = () => (
           <td className="border-2 border-gray-300 p-3">
             <a href="https://nextjs-boilerplate.com/pro-saas-starter-kit">
               <Image
-                src="/assets/images/nextjs-boilerplate-saas.png"
+                src="/assets/images/Shop6.jpg"
                 alt="Next.js Boilerplate SaaS"
                 width={260}
                 height={224}
